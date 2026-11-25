@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.part.mp4
+comprimidos/
+ffmpeg
+ffmpeg.exe
+ffprobe
+ffprobe.exe
+.venv/
