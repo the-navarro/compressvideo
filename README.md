@@ -30,6 +30,13 @@ python compressor_video.py
 2. Escolha um perfil (ou personalize).
 3. Escolha onde salvar e clique em **Comprimir**.
 
+## Versão web (instalável)
+
+A pasta [`docs/`](docs/) tem uma versão web do compressor, que roda no navegador (Chrome/Edge). Os vídeos são processados no seu computador e nunca são enviados para a internet.
+
+- Uso rápido: abra `docs/index.html` no Chrome ou Edge.
+- Instalar como aplicativo: o navegador só oferece "Instalar" em endereços https. Com o GitHub Pages ligado (Settings → Pages → Branch `main`, pasta `/docs`), abra o endereço publicado e clique em "Instalar aplicativo". Depois de instalado, funciona offline.
+
 ## Licença
 
 MIT
